@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">L8 Showcase</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="txt_1">Exposed Api Showcase. Control your l8!</string>
+	<string name="function_1">l8://l8smartlight.com/setMatrixColor?color=0000ff</string>
+	<string name="function_2">l8://l8smartlight.com/setBackLedColor?color=ff0000</string>
+	<string name="function_3">l8://l8smartlight.com/setLedColor?x=0&amp;y=0&amp;color=00ff00</string>
+	<string name="function_4">l8://l8smartlight.com/setMatrixArrayColor?matrixArray=000000-000000-000000-000000-000000-000000-000000-000000-ff0000-ff0000-ffffff-ffffff-ffffff-ffffff-ff0000-ff0000-ff0000-ff0000-ff0000-ffffff-ffffff-ff0000-ff0000-ff0000-ff0000-ffffff-ff0000-ff0000-ff0000-ff0000-ffffff-ff0000-ff0000-ffffff-ffffff-ff0000-ff0000-ffffff-ffffff-ff0000-ff0000-ffffff-ffffff-ffffff-ffffff-ffffff-ffffff-ff0000-ff0000-ffffff-ffffff-ffffff-ffffff-ffffff-ffffff-ff0000-000000-000000-000000-000000-000000-000000-000000-000000-ffffff</string>
+	<string name="function_5">l8://l8smartlight.com/closeBtConnection</string>
+	<string name="function_6">l8://l8smartlight.com/clear</string>
+	<string name="function_7">l8://l8smartlight.com/shutDown</string>
+	<string name="function_8">Animation test</string>
+	<string name="function_9">l8://l8smartlight.com/getDataSensors</string>	
+</resources>
